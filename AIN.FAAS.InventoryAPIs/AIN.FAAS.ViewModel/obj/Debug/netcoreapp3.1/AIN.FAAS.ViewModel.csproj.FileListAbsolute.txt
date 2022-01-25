@@ -1,0 +1,20 @@
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.deps.json
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.pdb
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.csproj.AssemblyReference.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.AssemblyInfoInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.AssemblyInfo.cs
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.pdb
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.deps.json
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.pdb
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.csproj.AssemblyReference.cache
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.AssemblyInfoInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.AssemblyInfo.cs
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.csproj.CoreCompileInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.ViewModel\obj\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.pdb

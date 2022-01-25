@@ -1,0 +1,30 @@
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Services.deps.json
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Services.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Services.pdb
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Repository.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Repository.pdb
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.pdb
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.csproj.AssemblyReference.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.AssemblyInfoInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.AssemblyInfo.cs
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.csproj.CoreCompileInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.csproj.CopyComplete
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.dll
+C:\Users\z004cuum\Desktop\AIM\Code\Latest\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.pdb
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Services.deps.json
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Services.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Services.pdb
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Repository.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.Repository.pdb
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\bin\Debug\netcoreapp3.1\AIN.FAAS.ViewModel.pdb
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.csproj.AssemblyReference.cache
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.AssemblyInfoInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.AssemblyInfo.cs
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.csproj.CoreCompileInputs.cache
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.csproj.CopyComplete
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.dll
+C:\Users\z004cuum\Desktop\AIM\Git hub\Code\AIN.FAAS.InventoryAPIs\AIN.FAAS.Services\obj\Debug\netcoreapp3.1\AIN.FAAS.Services.pdb
