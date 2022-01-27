@@ -21,8 +21,7 @@ namespace AIN.FAAS.API
             string SqlConnection = Environment.GetEnvironmentVariable("SqlConnectionString");
             builder.Services.AddDbContext<AINDatabaseContext>(options => options.UseSqlServer(SqlConnection));
             builder.Services.AddTransient<IInventoryAPIServices, InventoryAPIServices>();
-            builder.Services.AddTransient<IInventoryAPIRepository, InventoryAPIRepository>();
-            // test comment for pull request
+            builder.Services.AddTransient<IInventoryAPIRepository, InventoryAPIRepository>();            
         }
     }
 }
