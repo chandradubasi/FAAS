@@ -15,13 +15,18 @@ using System.Text;
 namespace AIN.FAAS.API
 {
     class Startup : FunctionsStartup
-    {     
+    {
+        
         public override void Configure(IFunctionsHostBuilder builder)
         {
-            string SqlConnection = Environment.GetEnvironmentVariable("SqlConnectionString");
-            builder.Services.AddDbContext<AINDatabaseContext>(options => options.UseSqlServer(SqlConnection));
+            string SqlConnection = Environment.GetEnvironmentVariable("ConnectionStrings");
+            builder.Services.AddDbContext<AINDatabaseContext>(options => options.UseSqlServer(SqlConnection));            
             builder.Services.AddTransient<IInventoryAPIServices, InventoryAPIServices>();
             builder.Services.AddTransient<IInventoryAPIRepository, InventoryAPIRepository>();            
+                      
+
         }
+        
+
     }
 }

@@ -31,7 +31,7 @@ namespace AIN.FAAS.API.Functions
                 return new OkObjectResult(hospitals);
             }
             catch (Exception e)
-            {
+            {                
                 log.LogError(e.ToString());
                 throw e;
             }
