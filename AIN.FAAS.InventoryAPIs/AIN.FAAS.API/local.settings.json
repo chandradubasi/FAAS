@@ -1,0 +1,11 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet",
+    //"SqlConnectionString": "data source=MD3CY9YC;Initial Catalog=AINDatabase;Persist Security Info=True;Integrated Security=SSPI;MultipleActiveResultSets=true;",
+    "ConnectionStrings": "Server=tcp:faasinventoryapi.database.windows.net,1433;Initial Catalog=AINMedisynHospitalDB;Persist Security Info=False;User ID=ainfaasuser;Password=Faassql@1010;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;",
+    "APIDomain": "https://ainfaassql.azurewebsites.net"
+  }
+  
+}
