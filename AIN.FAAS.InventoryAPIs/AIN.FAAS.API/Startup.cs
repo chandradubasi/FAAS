@@ -23,7 +23,7 @@ namespace AIN.FAAS.API
             builder.Services.AddDbContext<AINDatabaseContext>(options => options.UseSqlServer(SqlConnection));            
             builder.Services.AddTransient<IInventoryAPIServices, InventoryAPIServices>();
             builder.Services.AddTransient<IInventoryAPIRepository, InventoryAPIRepository>();            
-            builder.Services.AddTransient<IInventoryAPIRepository, InventoryAPIRepository>();           
+                      
 
         }
         
